@@ -1,4 +1,4 @@
-- 👋 Hola, soy Carlos Domene Esteve y estoy recien graduado de Ingeniería Informática en la Unversdiad de Castila la Mancha.
+- 👋 Hola, soy Carlos Domene Esteve y estoy recién graduado de Ingeniería Informática en la Unversdiad de Castila la Mancha.
 
 - 👀 Estoy interesado en todo el mundo de la Inteligencia Artificial, y por ello actualmente estoy buscando empleo y empeazndo proyectos que me permitan aprender mucho sobre este sector
 y poder convertirme en un gran profesional
